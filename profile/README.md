@@ -9,7 +9,9 @@
   </a>
   <a href="https://github.com/jelly-chain/jelly-claude-skills">
     <img src="https://img.shields.io/badge/skills-Claude%20Code%20skills-7c3aed?style=for-the-badge" alt="skills">
-  </a>
+  </p>
+    
+ <p align="center">  
   <a href="https://github.com/jelly-chain/Solana">
     <img src="https://img.shields.io/badge/Solana-SDKs-14b8a6?style=for-the-badge" alt="Solana SDKs">
   </a>
