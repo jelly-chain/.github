@@ -1,5 +1,9 @@
-# Jelly Chain
+<p align="center">
+  <a href="https://github.com/jelly-chain">
+    <img src="https://gmgn.ai/external-res/25a9dc7e0274aedd8871aeb23c0c5f0d.webp" alt="jelly-claude">
+  </p>
 
+  
 <p align="center">
   <a href="https://github.com/jelly-chain/jelly-claude">
     <img src="https://img.shields.io/badge/jelly--claude-main%20agent-01696f?style=for-the-badge" alt="jelly-claude">
