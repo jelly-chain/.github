@@ -25,9 +25,13 @@
 </p>
 
 <p align="center">
-  <a href="https://jellychain.fun">Website</a> •
+  <a href="http://jelly-os.xyz/">Website</a> •
   <a href="https://t.me/jellyxchain">Telegram</a> •
   <a href="https://x.com/agentz010">X</a>
+</p>
+
+<p align="center">
+  <a href="https://jellychain.fun">New API Url is Jellychain.fun</a>
 </p>
 
 ---
