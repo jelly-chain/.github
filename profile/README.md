@@ -1,19 +1,23 @@
-<p align="center">
-  <a href="https://github.com/jelly-chain">
-    <img src="https://gmgn.ai/external-res/25a9dc7e0274aedd8871aeb23c0c5f0d.webp" alt="jelly-claude">
-  </p>
+<div align="center">
 
-  
-<p align="center">
-  <a href="https://github.com/jelly-chain/jelly-claude">
-    <img src="https://img.shields.io/badge/jelly--claude-main%20agent-01696f?style=for-the-badge" alt="jelly-claude">
-  </a>
-  <a href="https://github.com/jelly-chain/SDK">
-    <img src="https://img.shields.io/badge/SDK-multi--repo%20hub-1f2937?style=for-the-badge" alt="SDK">
-  </a>
-  <a href="https://github.com/jelly-chain/jelly-claude-skills">
-    <img src="https://img.shields.io/badge/skills-Claude%20Code%20skills-7c3aed?style=for-the-badge" alt="skills">
-  </p>
+<pre>
+     ██╗███████╗██╗     ██╗  ██╗   ██╗  ██████╗ ███████╗
+     ██║██╔════╝██║     ██║  ╚██╗ ██╔╝ ██╔═══██╗██╔════╝
+     ██║█████╗  ██║     ██║   ╚████╔╝  ██║   ██║███████╗
+██   ██║██╔══╝  ██║     ██║    ╚██╔╝   ██║   ██║╚════██║
+╚█████╔╝███████╗███████╗███████╗██║    ╚██████╔╝███████║
+ ╚════╝ ╚══════╝╚══════╝╚══════╝╚═╝     ╚═════╝ ╚══════╝
+</pre>
+
+
+[![npm](https://img.shields.io/npm/v/@jellyos/agent?color=14b8a6&style=flat-square)](https://www.npmjs.com/package/@jellyos/agent)
+[![Node](https://img.shields.io/badge/node-%3E%3D20-brightgreen?style=flat-square)](https://nodejs.org)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](LICENSE)
+
+[Website](http://jelly-os.xyz/) • [Telegram](https://t.me/jellyxchain) • [X / Twitter](https://x.com/agentz010) • [API](https://jellychain.fun) •
+[Claude Wrapper](https://github.com/jelly-chain/jelly-claude) • [PI Extention](https://github.com/jelly-chain/jellyOS-PI-Framework) • [NPM](https://www.npmjs.com/package/@jellyos/agent) • [NPM Docs](https://github.com/jelly-chain/JellyOS-NPM)
+
+</div>
     
  <p align="center">  
   <a href="https://github.com/jelly-chain/Solana">
@@ -24,15 +28,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="http://jelly-os.xyz/">Website</a> •
-  <a href="https://t.me/jellyxchain">Telegram</a> •
-  <a href="https://x.com/agentz010">X</a>
-</p>
 
-<p align="center">
-  <a href="https://jellychain.fun">New API Url is Jellychain.fun</a>
-</p>
 
 ---
 
@@ -47,6 +43,7 @@ Jelly Chain currently publishes 6 public repositories covering the main agent la
 
 | Repository | Focus | Stack |
 | --- | --- | --- |
+| [jellyOS](https://github.com/jelly-chain/jellyos) | Main CLI and agent with it's own launcher | js |
 | [jelly-claude](https://github.com/jelly-chain/jelly-claude) | Main multi-chain AI coding agent and launcher | TypeScript |
 | [SDK](https://github.com/jelly-chain/SDK) | Shared SDK hub for agents and prediction tooling | TypeScript |
 | [jelly-claude-skills](https://github.com/jelly-chain/jelly-claude-skills) | Installable protocol and chain skills for Claude Code | Shell |
