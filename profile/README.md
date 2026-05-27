@@ -35,7 +35,6 @@
 Multi-chain AI agents, SDKs, and trading infrastructure for Solana, BNB Chain, Ethereum, Base, and prediction markets.  
 Jelly Chain is the main GitHub home for the Jelly ecosystem, bringing together the Jelly-Claude agent, reusable SDKs, protocol skills, chain-specific tooling, and prediction market infrastructure in one place.
 
----
 
 ## What Jelly Chain includes
 
@@ -162,7 +161,24 @@ Agent templates define ready-made strategy profiles, such as:
 
 Templates can be installed via the Jelly-Claude npm scripts and invoked inside Claude Code using `/agent <name>`.
 
+
+
 ---
+## Deploy on-chain Tokens & Agents 
+
+Soon
+
+
+
+---
+
+## Give agents On-chain Identities 
+
+Soon
+
+----
+
+
 
 ### BNB
 
@@ -255,7 +271,8 @@ Jelly Chain is built around a practical multi-chain stack:
 - Prediction market infrastructure and trader automation (Polymarket, Kalshi, predict.fun).
 - Telegram-accessible workflows and terminal-first UX (tg-bridge + Ink UI).
 
----
+
+
 
 ## Quick start path
 
