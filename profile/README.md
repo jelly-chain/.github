@@ -1,15 +1,11 @@
 <div align="center">
 
-<pre>
-     ██╗███████╗██╗     ██╗  ██╗   ██╗  ██████╗ ███████╗
-     ██║██╔════╝██║     ██║  ╚██╗ ██╔╝ ██╔═══██╗██╔════╝
-     ██║█████╗  ██║     ██║   ╚████╔╝  ██║   ██║███████╗
-██   ██║██╔══╝  ██║     ██║    ╚██╔╝   ██║   ██║╚════██║
-╚█████╔╝███████╗███████╗███████╗██║    ╚██████╔╝███████║
- ╚════╝ ╚══════╝╚══════╝╚══════╝╚═╝     ╚═════╝ ╚══════╝
-</pre>
+<p align="center">
+  <a href="https://github.com/jelly-chain">
+    <img src="https://i.ibb.co/N2vqtxtM/Screenshot-2026-05-27-at-23-14-55.png" alt="JELLYOS">
+  </p>
 
-
+       
 [![npm](https://img.shields.io/npm/v/@jellyos/agent?color=14b8a6&style=flat-square)](https://www.npmjs.com/package/@jellyos/agent)
 [![Node](https://img.shields.io/badge/node-%3E%3D20-brightgreen?style=flat-square)](https://nodejs.org)
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](LICENSE)
