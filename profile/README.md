@@ -1,9 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <a href="https://github.com/jelly-chain">
-    <img src="https://i.ibb.co/N2vqtxtM/Screenshot-2026-05-27-at-23-14-55.png" alt="JELLYOS">
-  </p>
 
        
 [![npm](https://img.shields.io/npm/v/@jellyos/agent?color=14b8a6&style=flat-square)](https://www.npmjs.com/package/@jellyos/agent)
